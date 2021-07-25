@@ -13,7 +13,7 @@
 	
 	<body>
 
-		Login
+		Register Account
 		
 		<br>
 	
@@ -29,8 +29,6 @@
 			<input type="submit" value="Submit">
 		</form>
 		<br>
-		
-		Not Registered? <a href="register.jsp">Create Account</a>
 
 </body>
 </html>
